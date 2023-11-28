@@ -1,12 +1,25 @@
+.valor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-/* 
+.espacio {
+    margin: 1rem;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.numero {
+    margin-top: 1rem;
+}
 
-*/
+.titulo {
+    color: #ffe56c;
+}
+
+.subTitulo {
+    color: #ffedcc;
+}
+
+.pass {
+    color: #ff2600;
+}
