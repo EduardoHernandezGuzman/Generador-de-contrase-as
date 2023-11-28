@@ -1,5 +1,5 @@
 import React from "react";
-import Contraseña from "./contraseña";
+import Contraseña from "./contrasena";
 
 
 
